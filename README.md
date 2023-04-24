@@ -37,6 +37,9 @@ My best under standing of what a computer scientist does is they use their criti
 to interpet a problem and find a solution that benifits the user but is able to translate that solution
 so that a computer a program can fill that need. They do this by undertanding and interpting a problem and
 then testing their solution before implmenting it. This is important because it solves problems for user that
-they wouldnt be able to do for themselves and at the same time it can save them time and resources once solutions are implemented. 
+they wouldnt be able to do for themselves and at the same time it can save them time and resources once 
+solutions are implemented. My work on this project would save a company time because when I created the dashboard
+I implmented 3 filters that would only look up certain types of dogs based on what was needed. This is important
+because they get this information a lot quicker than they would if they had to go through each file manually.
 
 
